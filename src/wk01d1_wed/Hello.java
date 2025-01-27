@@ -1,4 +1,4 @@
-package wk01_wed;
+package wk01d1_wed;
 
 public class Hello {
     public static void main(String[] args){

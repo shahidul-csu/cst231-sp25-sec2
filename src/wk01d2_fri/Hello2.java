@@ -1,4 +1,4 @@
-package wk01_fri;
+package wk01d2_fri;
 
 import java.util.Scanner;
 
