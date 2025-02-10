@@ -8,12 +8,6 @@ public class LoopIntro {
         int num = 0;
         int sum = 0;
 
-        String s = "test";
-
-        if(!s.equalsIgnoreCase("Y")){
-            System.out.println("Not equal Y or y");
-        }
-
         while (num >= 0){
             sum += num;
             System.out.println("Sum: " + sum);
