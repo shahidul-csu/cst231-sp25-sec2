@@ -1,4 +1,4 @@
-package wk04_wed;
+package wk04_mon;
 
 import java.util.Scanner;
 
