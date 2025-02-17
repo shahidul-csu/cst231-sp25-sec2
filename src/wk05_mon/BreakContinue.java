@@ -10,7 +10,7 @@ public class BreakContinue {
 
 //        while(num < 1 || num > 100){
 //        while(!(num >= 1 && num <= 100)){
-        //De Mogran's Law
+        //De Morgan's Law
 //        while(!(num >= 1) || !(num <= 100)){
 //            System.out.print("Enter a number between 1 and 100: ");
 //            num = in.nextInt();
