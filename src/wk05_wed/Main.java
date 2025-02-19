@@ -14,7 +14,7 @@ public class Main {
 
         Syrup s2 = new Syrup("Strawberry");
         c.addSyrup(s2);
-        System.out.println(c);
+        System.out.println(c); 
 
         c.resize();
         c.addSyrup(s2);
