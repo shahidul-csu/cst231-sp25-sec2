@@ -1,0 +1,136 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.15">
+  <diagram name="Page-1" id="SV_DrhmBoVMHoP0bFmfk">
+    <mxGraphModel dx="794" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NfluDeFsQSCAC3yFQfTu-1" target="NfluDeFsQSCAC3yFQfTu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-1" value="Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-2" value="An yes/no question" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NfluDeFsQSCAC3yFQfTu-4" target="NfluDeFsQSCAC3yFQfTu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-4" value="Get an integer from the user and store it in a variable age" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NfluDeFsQSCAC3yFQfTu-5" target="NfluDeFsQSCAC3yFQfTu-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-13" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NfluDeFsQSCAC3yFQfTu-8">
+          <mxGeometry x="0.0095" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NfluDeFsQSCAC3yFQfTu-5" target="NfluDeFsQSCAC3yFQfTu-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-12" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NfluDeFsQSCAC3yFQfTu-11">
+          <mxGeometry x="-0.0083" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-5" value="Is age &amp;gt;= 18?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="NfluDeFsQSCAC3yFQfTu-7" target="NfluDeFsQSCAC3yFQfTu-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-7" value="Print &quot;Adult&quot;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="NfluDeFsQSCAC3yFQfTu-10" target="NfluDeFsQSCAC3yFQfTu-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-10" value="Print &quot;Minor&quot;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-14" value="Print &quot;Done&quot;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NfluDeFsQSCAC3yFQfTu-19" target="NfluDeFsQSCAC3yFQfTu-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-19" value="Generate a random integer in the range &lt;b&gt;1-10&lt;/b&gt; and store it in a variable &lt;b&gt;secret&lt;/b&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="400" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NfluDeFsQSCAC3yFQfTu-20" target="NfluDeFsQSCAC3yFQfTu-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-20" value="Get a user guess and store it in variable &lt;b&gt;guess&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="530" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NfluDeFsQSCAC3yFQfTu-22" target="NfluDeFsQSCAC3yFQfTu-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-26" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NfluDeFsQSCAC3yFQfTu-25">
+          <mxGeometry x="-0.0247" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NfluDeFsQSCAC3yFQfTu-22" target="NfluDeFsQSCAC3yFQfTu-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-31" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NfluDeFsQSCAC3yFQfTu-30">
+          <mxGeometry x="-0.0253" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-22" value="Is guess&amp;nbsp;&lt;div&gt;equal&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;secret?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="640" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-24" value="Print &quot;You guessed it correctly &quot;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="565" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NfluDeFsQSCAC3yFQfTu-29" target="NfluDeFsQSCAC3yFQfTu-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-35" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NfluDeFsQSCAC3yFQfTu-33">
+          <mxGeometry x="-0.1159" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NfluDeFsQSCAC3yFQfTu-29" target="NfluDeFsQSCAC3yFQfTu-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-38" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NfluDeFsQSCAC3yFQfTu-37">
+          <mxGeometry x="0.2441" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-29" value="Is guess&amp;nbsp;&lt;div&gt;greater than&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;secret?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="640" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NfluDeFsQSCAC3yFQfTu-32" target="NfluDeFsQSCAC3yFQfTu-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-32" value="Print &quot;Too High&quot;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NfluDeFsQSCAC3yFQfTu-36" target="NfluDeFsQSCAC3yFQfTu-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NfluDeFsQSCAC3yFQfTu-36" value="Print &quot;Too Low&quot;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
