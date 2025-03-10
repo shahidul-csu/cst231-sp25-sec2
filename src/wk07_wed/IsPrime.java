@@ -16,6 +16,9 @@ public class IsPrime {
                 break;
             }
         }
+        int a = 5 + 2;
+        String k = "Hello " + "W";
+        double d = 5.0 / 3 + a;
         if(num > 1 && isPrime){
             System.out.println(num + " is prime");
         } else{
