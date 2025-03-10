@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class FileReadingIntro {
     public static void main(String[] args) throws IOException {
+//        FileReader fr = new FileReader("src/words.txt");
         FileReader fr = new FileReader("src/wk08_mon/words.txt");
         Scanner fin = new Scanner(fr);
         int count = 0;
