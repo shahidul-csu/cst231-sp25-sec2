@@ -13,8 +13,8 @@ public class ArrayParameter {
     }
 
     public static void updateArray(int[] data){
-        data[2] = 5;
 //        data = new int[5];
+        data[2] = 5;
         printArray(data);
     }
 

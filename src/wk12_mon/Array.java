@@ -8,7 +8,7 @@ public class Array {
         int[] a = new int[5];
         System.out.println(a);
 
-        //Access a single item by proving an index
+        //Access a single item by providing an index
         a[0] = 7;
         System.out.println(a[0]);
         a[1] = a[0] + n;
