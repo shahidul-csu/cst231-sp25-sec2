@@ -14,7 +14,7 @@ public class Array2D {
         int[] y = new int[7];
         System.out.println(y);
         y[2] = 5;
-        print1DArray(y);
+        print(y);
         int[][] a = new int[3][4];
         System.out.println(a);
 
@@ -22,9 +22,9 @@ public class Array2D {
         System.out.println(a.length);
         System.out.println(a[0].length);
 
-        print2DArray(a);
+        print(a);
         fill(a);
-        print2DArray(a);
+        print(a);
 
 //        dummyPrint(a);
     }
@@ -39,10 +39,10 @@ public class Array2D {
 
     public static void dummyPrint(int[][] data){
         data = new int[4][5];
-        print2DArray(data);
+        print(data);
     }
 
-    public static void print2DArray(int[][] data){
+    public static void print(int[][] data){
 //        System.out.println(data);
         for(int row = 0; row < data.length; row++){
 //            System.out.print(data[row] + " ");
@@ -57,7 +57,7 @@ public class Array2D {
         System.out.println();
     }
 
-    public static void print1DArray(int[] data){
+    public static void print(int[] data){
         for(int i = 0; i < data.length; i++){
             System.out.print(data[i] + " ");
         }
