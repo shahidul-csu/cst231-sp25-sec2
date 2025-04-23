@@ -50,7 +50,7 @@ public class StringAndChar {
         System.out.println(a + b);
 
         char[][] data = new char[3][3];
-        char value = 48;
+        char value = 48; // '0'
         for(int r = 0; r < data.length; r++){
             for(int c = 0; c < data[r].length; c++){
                 data[r][c] = value++;
