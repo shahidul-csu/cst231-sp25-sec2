@@ -22,5 +22,10 @@ public class ClassTest {
         s2.addCredit(12);
         System.out.println(s2);
         System.out.println(s2.getStudentLevel());
+
+        System.out.println(s1.getName());
+        System.out.println(s1);
+        s1.setName("Bob Doe");
+        System.out.println(s1);
     }
 }
